@@ -8160,11 +8160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LHUser\\Desktop\\MVC\\MVCWebApplication\\MVCWebApplication.csproj",
+      "projectUniqueName": "c:\\Users\\LHUser\\Desktop\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
       "projectName": "MVCWebApplication",
-      "projectPath": "C:\\Users\\LHUser\\Desktop\\MVC\\MVCWebApplication\\MVCWebApplication.csproj",
+      "projectPath": "c:\\Users\\LHUser\\Desktop\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
       "packagesPath": "C:\\Users\\LHUser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LHUser\\Desktop\\MVC\\MVCWebApplication\\obj\\",
+      "outputPath": "c:\\Users\\LHUser\\Desktop\\New folder\\MVCWebApplication\\MVCWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LHUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
