@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj": {}
+    "Z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj": {}
   },
   "projects": {
-    "z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj": {
+    "Z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
+        "projectUniqueName": "Z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
         "projectName": "MVCWebApplication",
-        "projectPath": "z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
+        "projectPath": "Z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
         "packagesPath": "C:\\Users\\LHUser\\.nuget\\packages\\",
-        "outputPath": "z:\\New folder\\MVCWebApplication\\MVCWebApplication\\obj\\",
+        "outputPath": "Z:\\New folder\\MVCWebApplication\\MVCWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LHUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
