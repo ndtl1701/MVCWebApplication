@@ -8160,11 +8160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\LHUser\\Desktop\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
+      "projectUniqueName": "Z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
       "projectName": "MVCWebApplication",
-      "projectPath": "c:\\Users\\LHUser\\Desktop\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
+      "projectPath": "Z:\\New folder\\MVCWebApplication\\MVCWebApplication\\MVCWebApplication.csproj",
       "packagesPath": "C:\\Users\\LHUser\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\LHUser\\Desktop\\New folder\\MVCWebApplication\\MVCWebApplication\\obj\\",
+      "outputPath": "Z:\\New folder\\MVCWebApplication\\MVCWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LHUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8240,7 +8240,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
